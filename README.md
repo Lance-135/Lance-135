@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Austin Karki</h1>
 <h3 align="center">An Undergraduate Student Building a Strong Foundation in Computer Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lance-135&label=Profile%20views&color=0e75b6&style=flat" alt="saroj077" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lance-135&label=Profile%20views&color=0e75b6&style=flat" alt="austin" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
